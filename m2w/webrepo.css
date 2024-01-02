@@ -1,5 +1,6 @@
 div{
     background-color: tomato;
     padding: 50px;
-    
+    margin: 10px;
+    font-size: medium;
 }
